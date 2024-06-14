@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This inspiring collection of (prototype) collections collects the digital projects created by participants in *Creating Digital Collections with Minimal Infrastructure: Hands On with CollectionBuilder for Teaching and Exhibits*, a course at [Digital Humanities Summer Institute](https://dhsi.org/) 2023 hosted at beautiful University of Victoria. 
+This inspiring collection of (prototype) collections collects the digital projects created by participants in *Creating Digital Collections with Minimal Infrastructure: Hands On with CollectionBuilder for Teaching and Exhibits*, a course at [Digital Humanities Summer Institute](https://dhsi.org/) 2024 hosted at beautiful University of Victoria. 
 We are happy share these cool projects which were created with great diligence, enthusiasm, and care--over about four days time!
 
 ## Course Abstract
